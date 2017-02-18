@@ -1,3 +1,15 @@
+
+//some stuff kiara added (might not work)//
+
+subtitlemagenta {font face= "arial" font-size:20 color:#900C3F}
+
+
+
+"purple-text "
+
+//original code before kiara started maybe messing it up (from below here )//
+
+
 /*!
  * Materialize v0.97.8 (http://materializecss.com)
  * Copyright 2014-2015 Materialize
@@ -312,7 +324,7 @@
 }
 
 .purple-text {
-  color: #9c27b0 !important;
+  color: #A91839 !important;
 }
 
 .purple.lighten-5 {
@@ -320,7 +332,7 @@
 }
 
 .purple-text.text-lighten-5 {
-  color: #f3e5f5 !important;
+  color: #F6D5DF !important;
 }
 
 .purple.lighten-4 {
@@ -328,39 +340,39 @@
 }
 
 .purple-text.text-lighten-4 {
-  color: #e1bee7 !important;
+  color: #E7BEBE !important;
 }
 
 .purple.lighten-3 {
-  background-color: #ce93d8 !important;
+  background-color: #D89399 !important;
 }
 
 .purple-text.text-lighten-3 {
-  color: #ce93d8 !important;
+  color: #D893A8 !important;
 }
 
 .purple.lighten-2 {
-  background-color: #ba68c8 !important;
+  background-color: #C4637F !important;
 }
 
 .purple-text.text-lighten-2 {
-  color: #ba68c8 !important;
+  color: #C4628A !important;
 }
 
 .purple.lighten-1 {
-  background-color: #ab47bc !important;
+  background-color: #BD3975 !important;
 }
 
 .purple-text.text-lighten-1 {
-  color: #ab47bc !important;
+  color: #B33869 !important;
 }
 
 .purple.darken-1 {
-  background-color: #8e24aa !important;
+  background-color: #A92247 !important;
 }
 
 .purple-text.text-darken-1 {
-  color: #8e24aa !important;
+  color: #AA243E !important;
 }
 
 .purple.darken-2 {
