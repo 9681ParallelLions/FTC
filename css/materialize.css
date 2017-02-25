@@ -1,13 +1,6 @@
+//Font, size, and color//
 
-//some stuff kiara added (might not work)//
-
-subtitlemagenta {font face= "arial" font-size:20 color:#900C3F}
-
-
-
-"purple-text "
-
-//original code before kiara started maybe messing it up (from below here )//
+subtitlemagenta {font face= "Gill Sans" font-size:19 color:#7D163E}
 
 
 /*!
@@ -16,115 +9,115 @@ subtitlemagenta {font face= "arial" font-size:20 color:#900C3F}
  * MIT License (https://raw.githubusercontent.com/Dogfalo/materialize/master/LICENSE)
  */
 .materialize-red {
-  background-color: #b00000 !important;
+  background-color: #dc0000 !important;
 }
 
 .materialize-red-text {
-  color: #e51c23 !important;
+  color: #dc0001 !important;
 }
 
 .materialize-red.lighten-5 {
-  background-color: #fdeaeb !important;
+  background-color: #edcdcf !important;
 }
 
 .materialize-red-text.text-lighten-5 {
-  color: #fdeaeb !important;
+  color: #edcdc1 !important;
 }
 
 .materialize-red.lighten-4 {
-  background-color: #f8c1c3 !important;
+  background-color: #DA888B !important;
 }
 
 .materialize-red-text.text-lighten-4 {
-  color: #f8c1c3 !important;
+  color: #F7878B !important;
 }
 
 .materialize-red.lighten-3 {
-  background-color: #f3989b !important;
+  background-color: #C5696C !important;
 }
 
 .materialize-red-text.text-lighten-3 {
-  color: #f3989b !important;
+  color: #C5696C !important;
 }
 
 .materialize-red.lighten-2 {
-  background-color: #ee6e73 !important;
+  background-color: #C4565A !important;
 }
 
 .materialize-red-text.text-lighten-2 {
-  color: #ee6e73 !important;
+  color: #C4565A !important;
 }
 
 .materialize-red.lighten-1 {
-  background-color: #ea454b !important;
+  background-color: #C4565A !important;
 }
 
 .materialize-red-text.text-lighten-1 {
-  color: #ea454b !important;
+  color: #C4565A !important;
 }
 
 .materialize-red.darken-1 {
-  background-color: #d0181e !important;
+  background-color: #B4050A !important;
 }
 
 .materialize-red-text.text-darken-1 {
-  color: #d0181e !important;
+  color: #B4050A !important;
 }
 
 .materialize-red.darken-2 {
-  background-color: #b9151b !important;
+  background-color: #9E0005 !important;
 }
 
 .materialize-red-text.text-darken-2 {
-  color: #b9151b !important;
+  color: #9E0005 !important;
 }
 
 .materialize-red.darken-3 {
-  background-color: #a21318 !important;
+  background-color: #D90008 !important;
 }
 
 .materialize-red-text.text-darken-3 {
-  color: #a21318 !important;
+  color: #D90008 !important;
 }
 
 .materialize-red.darken-4 {
-  background-color: #8b1014 !important;
+  background-color: #710407 !important;
 }
 
 .materialize-red-text.text-darken-4 {
-  color: #8b1014 !important;
+  color: #710407 !important;
 }
 
 .red {
-  background-color: #F44336 !important;
+  background-color: #FF3223 !important;
 }
 
 .red-text {
-  color: #F44336 !important;
+  color: #FF3223 !important;
 }
 
 .red.lighten-5 {
-  background-color: #FFEBEE !important;
+  background-color: #FFD9DF !important;
 }
 
 .red-text.text-lighten-5 {
-  color: #FFEBEE !important;
+  color: #FFD9DF !important;
 }
 
 .red.lighten-4 {
-  background-color: #FFCDD2 !important;
+  background-color: #FD838F !important;
 }
 
 .red-text.text-lighten-4 {
-  color: #FFCDD2 !important;
+  color: #FD838F !important;
 }
 
 .red.lighten-3 {
-  background-color: #EF9A9A !important;
+  background-color: #FD838F !important;
 }
 
 .red-text.text-lighten-3 {
-  color: #EF9A9A !important;
+  color: #FD838F !important;
 }
 
 .red.lighten-2 {
